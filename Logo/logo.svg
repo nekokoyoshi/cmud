@@ -1,1 +1,11 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1127.18 992.33"><defs><style>.cls-1{fill:#f9a3e7;}</style></defs><title>logo</title><path class="cls-1" d="M624.63,634.32l-6.43,12.43a656.83,656.83,0,0,0,476.48,50,75,75,0,0,1,94.91,72.31v61.31c0,165.69-134.31,300-300,300H362.41c-165.69,0-300-134.31-300-300V438c0-165.69,134.31-300,300-300H889.59c165.69,0,300,134.31,300,300V549.42a140,140,0,0,1-104,135.29A642.88,642.88,0,0,1,624.63,634.32Z" transform="translate(-62.41 -138.04)"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1252 1252" style="enable-background:new 0 0 1252 1252;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F9A3E7;}
+</style>
+<path class="st0" d="M635.2,613.9l-27.6,53.3c163.6,84.7,354.6,99.4,529.2,40.7c4.1-1.4,8.4-2.1,12.7-2.1c22.1,0,40,17.9,40,40v84.5
+	c0,165.7-134.3,300-300,300H362.4c-165.7,0-300-134.3-300-300V438c0-165.7,134.3-300,300-300h527.2c165.7,0,300,134.3,300,300v79.9
+	c0,68.2-46,127.8-111.9,145.1C929.2,702,771.5,684.5,635.2,613.9z"/>
+</svg>
