@@ -1,0 +1,8 @@
+{
+"name":"Fileball Dexter Icon", 
+"description":"By Dexter, for own use", 
+"icons":
+    [
+        {"name":"CMUD.png", "url":"https://raw.githubusercontent.com/nekokoyoshi/cmud/main/Logo/logo.png"},
+    ]
+}
